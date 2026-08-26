@@ -6,12 +6,12 @@ on:
       duration:
         description: '🕐 Thời gian sử dụng'
         required: false
-        default: '50h'
+        default: '5h40m'
         type: choice
         options:
         - '1h'
         - '3h' 
-        - '50h'
+        - '5h40m'
 
 jobs:
   Premium-RDP-Setup:
