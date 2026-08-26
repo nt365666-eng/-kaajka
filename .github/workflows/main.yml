@@ -11,7 +11,7 @@ on:
         options:
         - '1h'
         - '3h' 
-        - '5h40m'
+        - '50h'
 
 jobs:
   Premium-RDP-Setup:
